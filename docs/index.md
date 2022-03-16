@@ -28,11 +28,10 @@ Universitas Gadjah Mada
 </p>
 - Functional Requirements :
 <br/>
-<br/>
 <table>
   <thead>
     <tr>
-      <th>FR</th>
+      <th>&nbsp;&nbsp;&nbsp;FR&nbsp;&nbsp;&nbsp;</th>
       <th>Deskripsi</th>
     </tr>
   </thead>
@@ -59,20 +58,18 @@ Universitas Gadjah Mada
     </tr>
   </tbody>
 </table>
-- Entity Relationship Diagram :
 <br/>
+- Entity Relationship Diagram :
 <br/>
 <p align="center">
   <img src="https://github.com/harrykid23/DermaScan/blob/main/docs/images/erd.png?raw=true" alt="erd" style="width:60%;"/>
 </p>
 - Gantt-Chart pengerjaan :
 <br/>
-<br/>
 <p align="center">
   <img src="https://github.com/harrykid23/DermaScan/blob/main/docs/images/gantt-chart.png?raw=true" alt="erd" style="width:70%;"/>
 </p>
 - Low Fidelity Wireframes :
-<br/>
 <br/>
 <p align="center">
   <img src="https://github.com/harrykid23/DermaScan/blob/main/docs/images/low fidelity wireframe.jpg?raw=true" alt="erd" style="width:70%;"/>
