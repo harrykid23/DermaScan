@@ -74,8 +74,18 @@ Universitas Gadjah Mada
 <p align="center">
   <img src="https://github.com/harrykid23/DermaScan/blob/main/docs/images/low fidelity wireframe.jpg?raw=true" alt="erd" style="width:70%;"/>
 </p>
+- Implemented UI :
+<br/>
+<p align="center">
+  <img src="https://github.com/harrykid23/DermaScan/blob/main/docs/images/Implemented UI.png?raw=true" alt="erd" style="width:70%;"/>
+</p>
 - Arsitektur Cloud :
 <br/>
 <p align="center">
-  <img src="https://github.com/harrykid23/DermaScan/blob/main/docs/images/arsitektur cloud.png?raw=true" alt="erd" style="width:70%;"/>
+  <img src="https://github.com/harrykid23/DermaScan/blob/main/docs/images/ArchiCloud.png?raw=true" alt="erd" style="width:70%;"/>
+</p>
+- Software Testing (Black Box Manual Testing) :
+<br/>
+<p align="center">
+  <img src="https://github.com/harrykid23/DermaScan/blob/main/docs/images/SoftwareTesting.png?raw=true" alt="erd" style="width:70%;"/>
 </p>
